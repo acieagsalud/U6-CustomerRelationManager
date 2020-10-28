@@ -6,13 +6,13 @@ class CustomersControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should get action" do
-    get customers_action_url
+  test "should get alphabetized" do
+    get customers_alphabetized_url
     assert_response :success
   end
 
-  test "should get view" do
-    get customers_view_url
+  test "should get missing_email" do
+    get customers_missing_email_url
     assert_response :success
   end
 
