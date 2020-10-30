@@ -1,24 +1,6 @@
-# README
+# Ultimate Challenge 6 - Customer Relation Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a basic Customer Relation Manager to cover the assignment requirements from:
+* Setup Rails
+* Part 1 - PREPARE A PARTIAL FOR CUSTOMERS
+* Part 2 - A NEW CONTROLLER
